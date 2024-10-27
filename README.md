@@ -1,4 +1,4 @@
-![logo](https://github.com/RabailFiaz/RabailFiaz/blob/main/Brown%20and%20Gray%20Simple%20Personal%20LinkedIn%20Banner.png)
+![logo](https://github.com/RabailFiaz/RabailFiaz/blob/main/Banner.png)
 <h3 align="centre">A passionate Software Engineer from Pakistan</h3>
 <img align="right" alt="coding" width="400px" src="https://th.bing.com/th/id/R.54c9af226721e95539a5cd9592d635bb?rik=4jwM6Z8L3wdIvw&pid=ImgRaw&r=0">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabailfiaz&label=Profile%20views&color=0e75b6&style=flat" alt="rabailfiaz" /> </p>
